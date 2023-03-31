@@ -1,0 +1,46 @@
+s {
+
+    font-size: 30px;
+    transition: all .7s ease-in-out;
+    border: 3px;
+    border-radius: 50%;
+    
+}
+
+s:hover {
+
+    background-color:violet;
+    color: slategrey;
+    transform: rotate(180deg);
+}
+
+button {
+
+    border: 3px;
+    border-radius: 5%;
+    color:chartreuse;
+}
+
+button:hover {
+
+    background-color: aquamarine;
+    color: tomato;
+    border: 3px;
+    border-radius: 10%;
+    transition: all .7s ease-in-out;
+}
+
+p{
+
+    font-size: 50px;
+    color: chartreuse;
+
+}
+
+p:hover {
+
+    color: yellow;
+    background-color: rgb(72, 72, 133);
+    cursor: pointer;
+    transform: rotate(360deg);
+}

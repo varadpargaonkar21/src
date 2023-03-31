@@ -1,0 +1,31 @@
+body {
+
+  background-color: blue;
+}
+
+
+
+.leftside {
+
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  border:solid 3px firebrick;
+  background-color: firebrick;
+  
+}
+
+button {
+
+  margin: 20px;
+  background-color: firebrick;
+  border: solid firebrick;
+  font-size: medium;
+  color: yellow;
+}
+
+button:hover {
+
+  font-size: larger;
+  color: yellow;
+}
